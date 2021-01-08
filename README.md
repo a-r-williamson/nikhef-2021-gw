@@ -7,4 +7,4 @@ These notebooks can be easily launched in Google Colab via the links below.
 ## Tutorial 1
 This notebook goes through the basics of data handling, signal processing, matched filtering, and signal consistency tests with `PyCBC`.
 
-[![Open Tutorial 1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/a-r-williamson/nikhef-2021-gw/blob/main/tutorial_1_detection.ipynb)
+[![Open Tutorial 1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/a-r-williamson/nikhef-2021-gw/blob/main/notebooks/tutorial_1_detection.ipynb)
